@@ -1,0 +1,1 @@
+This project is to create a basic recipe website. The intent is to show familiarity of basic html knowledge such as boilerplate, tags, elements, hyerlinks, and imagaes
